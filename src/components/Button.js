@@ -3,7 +3,7 @@ const button = ({ color, text, onClick }) => {
     <button
       onClick={onClick}
       style={{ backgroundColor: color }}
-      className="btn"
+      className="btn" id="btn-button"
     >
       {text}
     </button>
