@@ -1,6 +1,6 @@
 const Trial = ({name, color}) => {
   return (
-    <p class="trial-style" style={{ color: color }}>Hello {name}</p>
+    <p className="trial-style" style={{ color: color }}>Hello {name}</p>
   )
 }
 
