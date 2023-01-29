@@ -68,7 +68,7 @@ function App() {
       </div>
       <Trial name="Lindsey" color="red" />
       <br />
-      <Trial name="Linda" color="blue" />
+      <Trial name="Linda Boo" color="blue" />
     </div>
   );
 }

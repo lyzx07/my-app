@@ -114,4 +114,6 @@ footer {
 .trial-style {
   background-color: #000;
   text-align: center;
+  width: 50%;
+  margin: auto auto;
 }
